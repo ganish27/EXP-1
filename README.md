@@ -44,19 +44,26 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ <img width="1046" height="617" alt="image" src="https://github.com/user-attachments/assets/1b36613e-11d5-41d1-bd05-e703ca7cf504" />
+
 
 
 b.  KCL:
- 
+ <img width="1037" height="603" alt="image" src="https://github.com/user-attachments/assets/a8c2886d-2646-4ad8-af24-44afd92e856f" />
+
 
 Calculation:
 
 a.   KVL:
  
+<img width="1052" height="1494" alt="Handwritten Circuit Calculations on Paper" src="https://github.com/user-attachments/assets/50a05c2d-fb48-4171-a72b-4166edeb7bda" />
 
-
+ 
 b.  KCL:
+
+<img width="1008" height="1560" alt="Handwritten KCL Circuit Calculations" src="https://github.com/user-attachments/assets/05166fb4-1f32-4ca0-aa05-2e74a9a7afe4" />
+
+
 
 
 
@@ -64,11 +71,15 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+
+<img width="408" height="632" alt="image" src="https://github.com/user-attachments/assets/12b54cf2-0f60-46ea-b35f-d3d7fcbd2b7d" />
+
 
 
 b.  KCL:
 
+
+<img width="381" height="652" alt="image" src="https://github.com/user-attachments/assets/aafddb85-9cc4-46c8-bf22-71ca6b3b7cac" />
 
 
 RESULT:
